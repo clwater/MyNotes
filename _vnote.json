@@ -1,0 +1,19 @@
+{
+    "attachment_folder": "attach",
+    "created_time": "2020-01-17T04:43:44Z",
+    "files": [
+    ],
+    "image_folder": "image",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "tools"
+        },
+        {
+            "name": "code"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
