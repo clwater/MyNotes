@@ -5,6 +5,12 @@
     "sub_directories": [
         {
             "name": "lua"
+        },
+        {
+            "name": "git"
+        },
+        {
+            "name": "shell"
         }
     ],
     "version": "1"
