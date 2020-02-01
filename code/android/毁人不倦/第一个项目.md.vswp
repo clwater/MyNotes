@@ -1,0 +1,54 @@
+vnote_backup_file_826537664 /Users/clwater/Desktop/git/gitme/MyNotes/code/android/毁人不倦/第一个项目.md
+# 第一个项目
+
+> 日常毁人不倦
+
+## 目录介绍
+
+
+![目录介绍](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202005434.png)
+
+
+主要是app/src/main下面的两个文件夹内容 java是代码内容,res是资源内容
+
+![main](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202010025.png)
+
+
+## 布局文件(activity_layout.xml)
+先看下布局文件, 这个是一个比较直接的部分,  刚打开的情况下应该是这个亚子
+![默认](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202010314.png)
+
+默认是design模式,切换成txt模式,(咱俩的版本和设置不一样, 你的切换位置应该在下面, 用你之前发的图标一下)
+
+![](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202010630.png)
+
+
+切换后应该是只有下面图的左半部分(as版本不一样), 右侧应用有个preview按钮,点开后都是类似下面的部分了
+
+![](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202010912.png)
+
+左侧是布局代码的部分, 右侧是预览情况页面,就是线手机上看到的预览, 
+
+```xml
+        android:text="Hello World!"
+```
+这一行有个Hello World的文字, 可以尝试修改下, ctrl+s保存后右侧的预览应该会实时更新
+
+
+布局这面先简单看看这个就行, 比较直观
+
+## 代码文件(MainActivity.java)
+
+这个部分默认的资源比较少
+![](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202011426.png)
+
+其它的部分.....   你也不会java 需要的时候再看一下吧
+
+## 如何安装运行
+
+一是用测试机, 随便一个android手机都行,记得打开开发者模式,连到电脑就行.
+
+还有一个是虚拟机的模式, 就是电脑安一个android 虚拟机(android studio自带的)  (这个部分如果你没有android测试机的话我再教你)
+
+运行的部分在这个位置, android studio版本和配置不一样, 位置内容可能不一样, 不过找运行的那个绿色的三角就行, 点击后就可以安装运行了
+![](https://update-image.oss-cn-shanghai.aliyuncs.com/pic/20200202012018.png)

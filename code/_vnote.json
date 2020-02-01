@@ -11,6 +11,9 @@
         },
         {
             "name": "shell"
+        },
+        {
+            "name": "android"
         }
     ],
     "version": "1"
