@@ -17,6 +17,9 @@
         },
         {
             "name": "other"
+        },
+        {
+            "name": "linux"
         }
     ],
     "tags": [

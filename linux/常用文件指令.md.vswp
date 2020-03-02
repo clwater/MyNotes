@@ -1,0 +1,9 @@
+vnote_backup_file_826537664 /Users/clwater/Desktop/git/gitme/MyNotes/linux/常用文件指令.md
+# 常用文件指令
+
+ls -l | wc -l 查看当前文件夹文件个数
+df -fl 查看磁盘使用情况
+
+
+## scp
+scp -r username@servername:remote_dir/ /tmp/local_dir  下载
