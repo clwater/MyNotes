@@ -5,6 +5,9 @@
     "sub_directories": [
         {
             "name": "mac"
+        },
+        {
+            "name": "docker"
         }
     ],
     "version": "1"

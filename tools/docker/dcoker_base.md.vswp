@@ -1,0 +1,7 @@
+vnote_backup_file_826537664 /Users/clwater/Desktop/git/gitme/MyNotes/tools/docker/dcoker_base.md
+# dcoker_base
+
+
+启动镜像 
+dc run -d -i -t -p 9100:3306 centos /bin/bash
+
