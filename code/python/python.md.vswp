@@ -1,0 +1,7 @@
+vnote_backup_file_826537664 /Users/clwater/Desktop/git/gitme/MyNotes/code/python/python.md
+# python
+
+
+## 读取文件
+with open('/path/to/file', 'r') as f:
+    print(f.read())
